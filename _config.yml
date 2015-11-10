@@ -1,0 +1,23 @@
+name: Spires
+favicon: null
+layout_spectrum: 0.049206273863092065
+typography_spectrum: 0.7377404845319688
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8802645371761173
+  lightness: 0.479333755094558
+  saturation: 0.6194047196768224
+  rhythmicContrast: 0.7909126342274249
+purpose: []
